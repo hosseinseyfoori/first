@@ -14,5 +14,7 @@
     },
     "require": {
         "illuminate/support": "5.7.19"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
