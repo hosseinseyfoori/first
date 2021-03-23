@@ -1,0 +1,18 @@
+{
+    "name": "fqx/first",
+    "description": "first package",
+    "authors": [
+        {
+            "name": "hossien seyfoori",
+            "email": "h.seyfoori@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "hosseinseyfoori\\first\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "5.7.19"
+    }
+}
