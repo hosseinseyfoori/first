@@ -16,6 +16,5 @@
         "illuminate/support": "5.7.19"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-     "license": "MIT",
+    "prefer-stable": true
 }
